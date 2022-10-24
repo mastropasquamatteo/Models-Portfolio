@@ -1,3 +1,4 @@
 # My Models Portfolio <br>
  Here you can find some samples of machine learning models developed by me for fun. <br>
- Soon you will find Regression/Classification/Clustering models.
+ At now you can find only a Regression model but -as I develop them- I aim to upload soon Regression/Classification/Clustering models.  <br> <br>
+Matteo
