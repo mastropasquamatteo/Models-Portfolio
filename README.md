@@ -1,4 +1,4 @@
-# Models Portfolio
+# ML Notebooks (2023)
 
 Two end-to-end machine learning notebooks built in early 2023 on public Kaggle datasets: one classification, one regression. Each notebook goes from raw data to a saved scikit-learn pipeline, with the reasoning written next to the code.
 
