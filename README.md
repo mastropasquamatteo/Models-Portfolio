@@ -66,7 +66,7 @@ I am leaving the notebooks as they were written, but a few choices would not pas
 
 ## Repository contents
 
-Each folder contains the notebook, the dataset used and the exported pipeline (`.joblib`).
+Each folder contains the notebook and the exported pipeline (`.joblib`). The datasets are not included: download them from the Kaggle links above and place the CSV files in the same folder as the notebook.
 
 ## Stack
 
